@@ -1,0 +1,13 @@
+ol li{
+    background-color: yellow;
+    
+}
+h1, h2, h3{
+    color:red
+}
+li{
+    font-size: 20px;
+}
+li em{
+    font-weight: bold;
+}
